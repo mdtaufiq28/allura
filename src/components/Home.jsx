@@ -7,7 +7,7 @@ const Home = () => {
     <NavigationBar></NavigationBar>
     <div className="h-full w-full  px-10 grid grid-cols-2  items-center max-xl:grid-cols-1 max-lg: pl-10 max-lg:pr-10">
       
-      <div className='flex items-center max-xl:flex-col max-xl:items-start max-xl:gap-y-20 gap-x-10'>
+      <div className='flex items-center max-xl:flex-col max-xl:items-start max-xl:gap-y-20 gap-x-10 '>
         <div className='flex flex-col items-start gap-y-20'>
           <p className='text-pink-600 font-lobster text-8xl max-md:text-6xl max-sm:text-5xl '>ALLURA</p>
           <p className='text-6xl leading-relaxed max-md:text-4xl max-sm:text-3xl text-pink-600 font-extrabold'>
