@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+@font-face {
+  font-family: 'raleway';
+  src: url('/Raleway-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'helvetica';
+  src: url('./assets/fonts/HelveticaNeueBlack.otf');
+}
+
+@font-face {
+  font-family: 'playfair-display';
+  src: url('./assets/fonts/PlayfairDisplay-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'lobster';
+  src: url('/Lobster-Regular.ttf');
+}
+body{
+  min-height: 100vh;
+  font-family: raleway;
+  overflow-x: hidden;
+}
