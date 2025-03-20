@@ -3,7 +3,7 @@ Allura
 <br>
 Description :<br>
 <br>
-a Visually Appealing and Responsive Landing Page UI for a conceptual apparel ecommerce - Allura .<br>
+a Visually Appealing and Responsive Landing Page UI for a Conceptual Apparel Ecommerce - Allura .<br>
 
 Tech Stack :
 
